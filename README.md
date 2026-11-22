@@ -26,9 +26,4 @@ Abra o navegador e acesse:
 
 **http://localhost:8080**
 
-Pronto! O sistema estará funcionando enquanto a aplicação estiver em execução no Eclipse.
 
-### Requisitos
-- Java JDK 17.
-- Eclipse IDE com suporte a Maven.
-- Conexão com a internet para baixar as dependências.
